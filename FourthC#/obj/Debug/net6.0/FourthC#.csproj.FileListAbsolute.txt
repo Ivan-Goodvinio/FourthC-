@@ -1,0 +1,16 @@
+C:\Users\1\Desktop\Geek - C#\FourthC#\bin\Debug\net6.0\FourthC#.exe
+C:\Users\1\Desktop\Geek - C#\FourthC#\bin\Debug\net6.0\FourthC#.deps.json
+C:\Users\1\Desktop\Geek - C#\FourthC#\bin\Debug\net6.0\FourthC#.runtimeconfig.json
+C:\Users\1\Desktop\Geek - C#\FourthC#\bin\Debug\net6.0\FourthC#.dll
+C:\Users\1\Desktop\Geek - C#\FourthC#\bin\Debug\net6.0\FourthC#.pdb
+C:\Users\1\Desktop\Geek - C#\FourthC#\obj\Debug\net6.0\FourthC#.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Geek - C#\FourthC#\obj\Debug\net6.0\FourthC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Geek - C#\FourthC#\obj\Debug\net6.0\FourthC#.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Geek - C#\FourthC#\obj\Debug\net6.0\FourthC#.AssemblyInfo.cs
+C:\Users\1\Desktop\Geek - C#\FourthC#\obj\Debug\net6.0\FourthC#.ImplicitNamespaceImports.cs
+C:\Users\1\Desktop\Geek - C#\FourthC#\obj\Debug\net6.0\FourthC#.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Geek - C#\FourthC#\obj\Debug\net6.0\FourthC#.dll
+C:\Users\1\Desktop\Geek - C#\FourthC#\obj\Debug\net6.0\refint\FourthC#.dll
+C:\Users\1\Desktop\Geek - C#\FourthC#\obj\Debug\net6.0\FourthC#.pdb
+C:\Users\1\Desktop\Geek - C#\FourthC#\obj\Debug\net6.0\FourthC#.genruntimeconfig.cache
+C:\Users\1\Desktop\Geek - C#\FourthC#\obj\Debug\net6.0\ref\FourthC#.dll
